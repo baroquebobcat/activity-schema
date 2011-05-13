@@ -472,7 +472,7 @@
           <c>The natural-language, human-readable and plain-text title of the 
           bookmark as entered by the user who created it. HTML markup MUST NOT 
           be included. Publishers MAY user the title of the target resource
-          as a default for this peroperty where a user has not entered a 
+          as a default for this property where a user has not entered a 
           customized value</c>
 
           <c><spanx style="verb">id</spanx></c>
